@@ -1,0 +1,17 @@
+{
+  "name": "wiser2mqtt",
+  "version": "1.0.0",
+  "description": "Connect to Wiser Energy APP, get metrics and send to mqtt server",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "moment": "^2.29.2",
+    "moment-timezone": "^0.5.34",
+    "mqtt": "^4.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "Raphaël DAUCHY <rafal83@gmail.com>",
+  "license": "MIT"
+}

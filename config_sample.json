@@ -1,0 +1,16 @@
+{
+    "mqtt": {
+        "host": "YOUR MQTT HOST",
+        "port": 1883,
+        "username": "YOUR USERNAME",
+        "password": "YOUR PASSWORD"
+    },
+    "homeassistant" : {
+        "prefix": "homeassistant"
+    },
+    "wiser": {
+        "authorization": "YOUR BEARER AUTHORIZATION",
+        "cookie": "YOUR COOKIE"
+    },
+    "timezone": "Europe/Paris"
+}
