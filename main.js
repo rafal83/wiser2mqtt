@@ -51,7 +51,7 @@ function publishConfigurationForHassDiscovery(
   });
 
   let headersList = {
-    authorization: `Bearer ${config.wiser.authorization}`,
+    authorization: `${config.wiser.authorization}`,
     "client-version": "3.9.1",
     cookie: `${config.wiser.cookie}`,
   };
