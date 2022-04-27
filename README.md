@@ -1,5 +1,11 @@
 Connect to Wiser Energy APP, get metrics and send to mqtt server
 
+- Step 0
+
+**docker pull rafal83/wiser2mqtt**
+or
+**Clone repo**
+
 - Step 1
 
 **Connect to : https://app.schneider-electric.com/wiser-energy/**
